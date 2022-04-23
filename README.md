@@ -271,7 +271,17 @@ end)
 win:Button("IDK",function()
     loadstring(game:HttpGet("https://raw.githubusercontent.com/LioK251/Scripts/main/"..game.PlaceId..".lua"))()
 end)
- 
-local win = idk:Tap("Tab 3")
-local win = idk:Tap("Tab 4")
-local win = idk:Tap("Tab 5")
+
+
+
+
+local win = idk:Tap("blox fruit(coming soon)")
+local win = idk:Tap("Vehicle Legends(coming soon)")
+local win = idk:Tap("The Mimic(coming soon)")
+local win = idk:Tap("Pet Simulator X! 🐾(coming soon)")
+local win = idk:Tap("🔥 Zombie Uprising🔥(coming soon)")
+local win = idk:Tap("Da Hood(coming soon)")
+local win = idk:Tap("Anime Fighters Simulator(coming soon)")
+local win = idk:Tap("(coming soon)")
+local win = idk:Tap("(coming soon)")
+
