@@ -1,13 +1,18 @@
 local GUI = loadstring(game:HttpGet("https://raw.githubusercontent.com/Patskorn/GUI/main/Daino.lua"))()
 local idk = GUI:new()
 local win = idk:Tap("Keera Shop")
-local win = idk:Tap("Misc")
-win:Label("Misc can use all map")
 
 
 win:Button("Webhook my Discord test",function()
     setclipboard("https://discord.com/api/webhooks/967142850158542901/mBycpiIYrU0bBjmRnpbX36SxCDw3R-kRA5kKHRw0We5RmiIBC7CvHoYMigsfToJfWW_o")
 end)
+
+
+
+local win = idk:Tap("Misc")
+win:Label("Misc can use all map")
+
+
 
 
 win:Button("RTX MODE(on)",function()
