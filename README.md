@@ -280,7 +280,25 @@ end)
 
 
 
-local win = idk:Tap("blox fruit(coming soon)")
+local win = idk:Tap("blox fruit")
+
+
+win:Label("script blox fruit")
+
+win:Button("MUKURO",function()
+    loadstring(game:HttpGet"https://raw.githubusercontent.com/xDepressionx/Free-Script/main/AllScript.lua")()
+end)
+ 
+win:Button("MARKXHub",function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/ArceusXHub/AV2022/main/README.md", true))()
+end)
+
+
+win:Button("PowerxCANDYYY",function()
+    _G.Color = Color3.fromRGB(255,255,255)
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/PowerxCANDYYY/NaMo/main/BFPOWERXHUBv2.lua"))()
+end)
+
 local win = idk:Tap("Vehicle Legends(coming soon)")
 local win = idk:Tap("The Mimic(coming soon)")
 local win = idk:Tap("Pet Simulator X! 🐾(coming soon)")
