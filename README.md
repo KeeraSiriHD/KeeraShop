@@ -1,6 +1,6 @@
 local GUI = loadstring(game:HttpGet("https://raw.githubusercontent.com/Patskorn/GUI/main/Daino.lua"))()
 local idk = GUI:new()
-local win = idk:Tap("Keera Shop")
+local win = idk:Tap("Keera HUB")
 
 
 win:Button("Webhook my Discord test",function()
